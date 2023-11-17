@@ -1,6 +1,6 @@
 # Pickup truck analytics
 
-"Pickup Analytics" is a data visualization from Thai government open data after I see some social discussion about new pickup truck model in 2020 from China.
+"Pickup Analytics" is a data visualization of Thai government open data which sparkled me to done after I watch some social discussion about new pickup truck model in 2020 from China.
 
 Thailand is the second largest pickup truck market in the world after USA.
 Statistic data indicated 45-50% of whole nation car license register on each year is pickup truck.
