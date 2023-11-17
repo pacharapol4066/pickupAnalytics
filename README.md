@@ -15,5 +15,11 @@ I also generated trendline-seasonal decomposition and found some insight.
 Pickup truck can be categorized into 2 types, single/extended cab and double cab.
 The best selling type of pickup truck in Thailand is single/extended cab.
 
+![image](https://github.com/pacharapol4066/pickupAnalytics/assets/26063352/511bc4cd-73be-42ac-87aa-5705b7af94a1)
+
+![image](https://github.com/pacharapol4066/pickupAnalytics/assets/26063352/ddcc2da9-61a2-461a-9070-4d949462e181)
+
+![image](https://github.com/pacharapol4066/pickupAnalytics/assets/26063352/a91e2cb7-2edf-47e9-91d7-e823bed44a7a)
+
 This insight can be the best way for people who interested in this domain but doesn't enroll for job in this industrial.
 Also, for car maker, if someone needs to develop new truck model, ev or ice, this insight may be a crue for opportunity.
