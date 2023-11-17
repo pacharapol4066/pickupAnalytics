@@ -1,4 +1,4 @@
-# pickupAnalytics
+# Pickup truck analytics
 
 "Pickup Analytics" is a data visualization from Thai government open data after I see some social discussion about new pickup truck model in 2020 from China.
 
